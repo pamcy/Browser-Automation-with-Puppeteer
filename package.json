@@ -1,0 +1,19 @@
+{
+  "name": "browser-automation-with-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pamcy",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
