@@ -28,7 +28,7 @@ const puppeteer = require('puppeteer');
       console.log(`Current processing: ${website}`);
 
       await page.screenshot({
-        path: `snapshots/snapshot_${website}.png`,
+        path: `../snapshots/snapshot_${website}.png`,
         fullPage: true,
       });
 

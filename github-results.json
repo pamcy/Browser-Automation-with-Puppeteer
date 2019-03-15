@@ -1,13 +1,18 @@
 [{
   "title": "GoogleChrome/puppeteer",
   "description": "Headless Chrome Node API",
-  "date": "6 hours ago",
+  "date": "7 hours ago",
   "stargazers": " 46.7k"
 }, {
   "title": "yujiosaka/headless-chrome-crawler",
   "description": "Distributed crawler powered by Headless Chrome",
   "date": "13 hours ago",
   "stargazers": " 3.8k"
+}, {
+  "title": "emadehsan/thal",
+  "description": "Getting started with Puppeteer and Chrome Headless for Web Scraping",
+  "date": "on Oct 18, 2018",
+  "stargazers": " 2.1k"
 }, {
   "title": "checkly/puppeteer-recorder",
   "description": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
@@ -29,6 +34,16 @@
   "date": "12 days ago",
   "stargazers": " 1.2k"
 }, {
+  "title": "macbre/phantomas",
+  "description": "PhantomJS-based web performance metrics collector and monitoring tool",
+  "date": "a day ago",
+  "stargazers": " 2.1k"
+}, {
+  "title": "checkly/puppeteer-examples",
+  "description": "Puppeteer example scripts for running Headless Chrome from Node. Run them at https://puppeteersandbox.com",
+  "date": "on Nov 9, 2018",
+  "stargazers": " 1.1k"
+}, {
   "title": "GoogleChromeLabs/puppeteer-examples",
   "description": "Use case-driven examples for using Puppeteer and headless chrome",
   "date": "on Feb 12",
@@ -36,22 +51,7 @@
 }, {
   "title": "smooth-code/jest-puppeteer",
   "description": "Run your tests using Jest & Puppeteer 🎪✨",
-  "date": "13 hours ago",
-  "stargazers": " 1.6k"
-}, {
-  "title": "danburzo/percollate",
-  "description": "🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs",
-  "date": "on Dec 23, 2018",
-  "stargazers": " 2.8k"
-}, {
-  "title": "axetroy/sms-boom",
-  "description": "利用chrome的headless模式，模拟用户注册进行短信轰炸机",
-  "date": "on Feb 5",
-  "stargazers": " 405"
-}, {
-  "title": "smooth-code/jest-puppeteer",
-  "description": "Run your tests using Jest & Puppeteer 🎪✨",
-  "date": "13 hours ago",
+  "date": "14 hours ago",
   "stargazers": " 1.6k"
 }, {
   "title": "danburzo/percollate",
@@ -66,12 +66,12 @@
 }, {
   "title": "gildas-lormeau/SingleFile",
   "description": "SingleFile is a Web Extension for Firefox and Chrome to save a complete web page as a single HTML file",
-  "date": "7 hours ago",
+  "date": "8 hours ago",
   "stargazers": " 393"
 }, {
   "title": "apifytech/apify-js",
   "description": "Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extrac…",
-  "date": "17 hours ago",
+  "date": "18 hours ago",
   "stargazers": " 1.6k"
 }, {
   "title": "alekzonder/docker-puppeteer",

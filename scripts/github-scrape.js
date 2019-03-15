@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
-const CREDS = require('./creds');
+const CREDS = require('../creds');
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -51,7 +51,7 @@ const CREDS = require('./creds');
 
     await browser.close();
 
-    fs.writeFile('github-results.json', JSON.stringify(results), (error) => {
+    fs.writeFile('../github-results.json', JSON.stringify(results), (error) => {
       if (error) throw error;
       console.log('JSON file saved');
     });
