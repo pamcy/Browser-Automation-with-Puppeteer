@@ -1,0 +1,101 @@
+[{
+  "title": "GoogleChrome/puppeteer",
+  "description": "Headless Chrome Node API",
+  "date": "6 hours ago",
+  "stargazers": " 46.7k"
+}, {
+  "title": "yujiosaka/headless-chrome-crawler",
+  "description": "Distributed crawler powered by Headless Chrome",
+  "date": "13 hours ago",
+  "stargazers": " 3.8k"
+}, {
+  "title": "checkly/puppeteer-recorder",
+  "description": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+  "date": "on Jan 27",
+  "stargazers": " 4.5k"
+}, {
+  "title": "zhentaoo/puppeteer-deep",
+  "description": "Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；",
+  "date": "on Jan 14, 2018",
+  "stargazers": " 681"
+}, {
+  "title": "segmentio/daydream",
+  "description": "A chrome extension to record your actions into a nightmare or puppeteer script",
+  "date": "on Feb 24, 2018",
+  "stargazers": " 2.3k"
+}, {
+  "title": "ElemeFE/page-skeleton-webpack-plugin",
+  "description": "Webpack plugin to generate the skeleton page automatically",
+  "date": "12 days ago",
+  "stargazers": " 1.2k"
+}, {
+  "title": "GoogleChromeLabs/puppeteer-examples",
+  "description": "Use case-driven examples for using Puppeteer and headless chrome",
+  "date": "on Feb 12",
+  "stargazers": " 1.5k"
+}, {
+  "title": "smooth-code/jest-puppeteer",
+  "description": "Run your tests using Jest & Puppeteer 🎪✨",
+  "date": "13 hours ago",
+  "stargazers": " 1.6k"
+}, {
+  "title": "danburzo/percollate",
+  "description": "🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs",
+  "date": "on Dec 23, 2018",
+  "stargazers": " 2.8k"
+}, {
+  "title": "axetroy/sms-boom",
+  "description": "利用chrome的headless模式，模拟用户注册进行短信轰炸机",
+  "date": "on Feb 5",
+  "stargazers": " 405"
+}, {
+  "title": "smooth-code/jest-puppeteer",
+  "description": "Run your tests using Jest & Puppeteer 🎪✨",
+  "date": "13 hours ago",
+  "stargazers": " 1.6k"
+}, {
+  "title": "danburzo/percollate",
+  "description": "🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs",
+  "date": "on Dec 23, 2018",
+  "stargazers": " 2.8k"
+}, {
+  "title": "axetroy/sms-boom",
+  "description": "利用chrome的headless模式，模拟用户注册进行短信轰炸机",
+  "date": "on Feb 5",
+  "stargazers": " 405"
+}, {
+  "title": "gildas-lormeau/SingleFile",
+  "description": "SingleFile is a Web Extension for Firefox and Chrome to save a complete web page as a single HTML file",
+  "date": "7 hours ago",
+  "stargazers": " 393"
+}, {
+  "title": "apifytech/apify-js",
+  "description": "Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extrac…",
+  "date": "17 hours ago",
+  "stargazers": " 1.6k"
+}, {
+  "title": "alekzonder/docker-puppeteer",
+  "description": "docker image with Google Puppeteer installed",
+  "date": "on Dec 13, 2018",
+  "stargazers": " 307"
+}, {
+  "title": "sambaiz/puppeteer-lambda-starter-kit",
+  "description": "Starter Kit for running Headless-Chrome by Puppeteer on AWS Lambda.",
+  "date": "on Feb 2",
+  "stargazers": " 474"
+}, {
+  "title": "xfumihiro/jest-puppeteer-example",
+  "description": "A working example of jest with puppeteer",
+  "date": "on Aug 4, 2018",
+  "stargazers": " 220"
+}, {
+  "title": "ebidel/try-puppeteer",
+  "description": "Run Puppeteer code in the cloud",
+  "date": "on Oct 31, 2018",
+  "stargazers": " 415"
+}, {
+  "title": "vladocar/screenshoteer",
+  "description": "Make website screenshots and mobile emulations from the command line.",
+  "date": "on Jan 5",
+  "stargazers": " 1.5k"
+}]
